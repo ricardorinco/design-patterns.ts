@@ -1,0 +1,20 @@
+{
+    "name": "design-patterns.ts",
+    "version": "1.0.0",
+    "description": "Estudo de padrões de projetos",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon",
+        "build": "rimraf ./build && tsc",
+        "deploy": "npm run build && node build/index.js"
+    },
+    "author": "Ricardo Rinco",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^14.10.3",
+        "nodemon": "^2.0.4",
+        "rimraf": "^3.0.2",
+        "ts-node": "^9.0.0",
+        "typescript": "^4.0.2"
+    }
+}
