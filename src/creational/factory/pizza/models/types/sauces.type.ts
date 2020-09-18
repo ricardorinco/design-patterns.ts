@@ -1,0 +1,1 @@
+export type Sauces = 'Marinara Pizza Sauce' | 'White Garlic Sauce';

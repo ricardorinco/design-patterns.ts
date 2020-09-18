@@ -1,4 +1,4 @@
-import { ICreditCard } from '../interfaces/icreditcard';
+import { ICreditCard } from './..interfaces/icreditcard';
 
 export abstract class CreditCardFactory {
 

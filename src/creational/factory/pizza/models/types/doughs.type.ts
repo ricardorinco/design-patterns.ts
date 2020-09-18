@@ -1,0 +1,1 @@
+export type Doughs = 'Crust' | 'Regular Crust' | 'Thin crust';
