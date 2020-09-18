@@ -9,3 +9,4 @@
 - **Factory** _(creational/factory/credit-card)_
 - **Abstract Factory** _(creational/factory/pizza)_
 - **Singleton** _(creational/singleton)_
+- **Builder** _(creational/builder/user)_
