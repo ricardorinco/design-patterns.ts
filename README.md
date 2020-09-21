@@ -16,3 +16,4 @@
 ## **Behavioral Patterns**
 
 - **Template Method** _(behavioral/template-method/beverage)_
+- **Strategy** _(behavioral/strategy/mathematical-operations)_
