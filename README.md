@@ -13,6 +13,10 @@
 - **Singleton** _(creational/singleton)_
 - **Builder** _(creational/builder/user)_
 
+## **Structural Patterns**
+
+- **Adapter** _(structural/adapter/financial)_
+
 ## **Behavioral Patterns**
 
 - **Template Method** _(behavioral/template-method/beverage)_
