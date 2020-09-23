@@ -16,6 +16,7 @@
 ## **Structural Patterns**
 
 - **Adapter** _(structural/adapter/financial)_
+- **Flyweight** _(structural/flyweight/police-station)_
 
 ## **Behavioral Patterns**
 
