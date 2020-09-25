@@ -22,3 +22,4 @@
 
 - **Template Method** _(behavioral/template-method/beverage)_
 - **Strategy** _(behavioral/strategy/mathematical-operations)_
+- **State** _(behavioral/state/tv)_
