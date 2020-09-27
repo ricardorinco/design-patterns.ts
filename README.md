@@ -17,6 +17,7 @@
 
 - **Adapter** _(structural/adapter/financial)_
 - **Flyweight** _(structural/flyweight/police-station)_
+- **Facade** _(structural/facade/home-theater)_
 
 ## **Behavioral Patterns**
 
