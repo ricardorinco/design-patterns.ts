@@ -12,6 +12,7 @@
 - **Abstract Factory** _(creational/factory/pizza)_
 - **Singleton** _(creational/singleton)_
 - **Builder** _(creational/builder/user)_
+- **Prototype** _(creational/prototype/sheep)_
 
 ## **Structural Patterns**
 
