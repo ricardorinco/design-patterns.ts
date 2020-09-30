@@ -8,20 +8,21 @@
 
 ## **Creational Patterns**
 
-- **Factory** _(creational/factory/credit-card)_
 - **Abstract Factory** _(creational/factory/pizza)_
-- **Singleton** _(creational/singleton)_
 - **Builder** _(creational/builder/user)_
+- **Factory** _(creational/factory/credit-card)_
 - **Prototype** _(creational/prototype/sheep)_
+- **Singleton** _(creational/singleton)_
 
 ## **Structural Patterns**
 
 - **Adapter** _(structural/adapter/financial)_
-- **Flyweight** _(structural/flyweight/police-station)_
+- **Bridge** _(structural/bridge/rpg-game)_
 - **Facade** _(structural/facade/home-theater)_
+- **Flyweight** _(structural/flyweight/police-station)_
 
 ## **Behavioral Patterns**
 
-- **Template Method** _(behavioral/template-method/beverage)_
-- **Strategy** _(behavioral/strategy/mathematical-operations)_
 - **State** _(behavioral/state/tv)_
+- **Strategy** _(behavioral/strategy/mathematical-operations)_
+- **Template Method** _(behavioral/template-method/beverage)_
