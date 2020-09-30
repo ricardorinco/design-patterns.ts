@@ -23,6 +23,7 @@
 
 ## **Behavioral Patterns**
 
+- **Chain of Responsibility** _(behavioral/chain-of-responsibility/media-device-error)_
 - **State** _(behavioral/state/tv)_
 - **Strategy** _(behavioral/strategy/mathematical-operations)_
 - **Template Method** _(behavioral/template-method/beverage)_
