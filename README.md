@@ -18,6 +18,7 @@
 
 - **Adapter** _(structural/adapter/financial)_
 - **Bridge** _(structural/bridge/rpg-game)_
+- **Composite** _(structural/composite/employee)_
 - **Facade** _(structural/facade/home-theater)_
 - **Flyweight** _(structural/flyweight/police-station)_
 
