@@ -23,6 +23,7 @@
 - **Decorator** _(structural/decorator/troll)_
 - **Facade** _(structural/facade/home-theater)_
 - **Flyweight** _(structural/flyweight/police-station)_
+- **Proxy** _(structural/proxy/wizard-tower)_
 
 ## **Behavioral Patterns**
 
