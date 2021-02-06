@@ -33,3 +33,4 @@
 - **State** _(behavioral/state/tv)_
 - **Strategy** _(behavioral/strategy/mathematical-operations)_
 - **Template Method** _(behavioral/template-method/beverage)_
+- **Visitor** _(behavioral/visitor/employee)_
