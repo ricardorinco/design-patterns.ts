@@ -30,6 +30,7 @@
 - **Chain of Responsibility** _(behavioral/chain-of-responsibility/media-device-error)_
 - **Command** _(behavioral/command/document)_
 - **Delegation** _(behavioral/delegation/printer)_
+_ **Interpreter** _(behavioral/interpreter/coffee-machine)_
 - **State** _(behavioral/state/tv)_
 - **Strategy** _(behavioral/strategy/mathematical-operations)_
 - **Template Method** _(behavioral/template-method/beverage)_
