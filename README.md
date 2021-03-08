@@ -31,6 +31,7 @@
 - **Command** _(behavioral/command/document)_
 - **Delegation** _(behavioral/delegation/printer)_
 _ **Interpreter** _(behavioral/interpreter/coffee-machine)_
+- **Iterator** _(behavioral/iterator/)_
 - **State** _(behavioral/state/tv)_
 - **Strategy** _(behavioral/strategy/mathematical-operations)_
 - **Template Method** _(behavioral/template-method/beverage)_
